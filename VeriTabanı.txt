@@ -1,0 +1,1 @@
+Data Source=HALIT\SQLEXPRESS;Initial Catalog=OkulProje;Integrated Security=True;Encrypt=False

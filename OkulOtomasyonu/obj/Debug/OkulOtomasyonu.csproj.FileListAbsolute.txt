@@ -1,0 +1,15 @@
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe.config
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.pdb
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Form1.resources
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Properties.Resources.resources
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.exe
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.pdb
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Form_Ogrenci_notlar.resources
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Form_Ogretmenler.resources
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Form_Kulupislemleri.resources
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Form_Ogrenciisleri.resources
+C:\Users\Halit\Desktop\Kurslar\C#\App\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Form_Sınavnotları.resources
